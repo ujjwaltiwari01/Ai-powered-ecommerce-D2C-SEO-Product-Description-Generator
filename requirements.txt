@@ -1,0 +1,54 @@
+# Core
+streamlit>=1.24.0
+python-dotenv>=1.0.0
+openai>=1.0.0
+langchain>=0.0.300
+langchain-openai>=0.0.1
+langgraph>=0.0.8
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+Pillow>=10.0.0
+python-magic>=0.4.27
+python-magic-bin>=0.4.14; sys_platform == 'win32'
+requests>=2.31.0
+python-slugify>=8.0.0
+tqdm>=4.66.0
+python-docx>=1.0.0
+openpyxl>=3.1.0
+pandas>=2.0.0
+numpy>=1.24.0
+pyperclip
+streamlit-audiorec>=0.1.0
+python-pptx>=0.6.21
+python-pptx-validator-helper>=0.0.2
+python-pptx-validator-utils>=0.0.2
+python-pptx-validator-validator>=0.0.2
+python-pptx-validator-validator-helper>=0.0.2
+python-pptx-validator-validator-utils>=0.0.2
+python-pptx-validator-validator-validator>=0.0.2
+python-pptx-validator-validator-validator-helper>=0.0.2
+python-pptx-validator-validator-validator-utils>=0.0.2.2.post1
+langchain-community==0.0.10
+langchain-core==0.1.8
+langchain-text-splitters==0.0.1
+langgraph==0.0.19
+
+Pillow==10.1.0
+python-magic==0.4.27
+
+# Audio Processing
+pydub==0.25.1
+SpeechRecognition==3.10.0
+
+# Utilities
+tqdm==4.66.1
+python-slugify==8.0.1
+pyperclip==1.8.2
+
+# Web
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Testing
+pytest==7.4.2
+pytest-cov==4.1.0
